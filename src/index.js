@@ -1,3 +1,4 @@
 import 'babel-polyfill';
+import 'babel-regenerator-runtime';
 
-// Have fun :)
+// have fun
