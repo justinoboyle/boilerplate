@@ -7,6 +7,11 @@ Clone this repository, delete .git, run `npm install`, and start writing your co
 npm run dev
 ```
 
+### Run tests
+```
+npm test
+```
+
 ### Package for production
 ```
 npm run build
