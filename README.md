@@ -16,4 +16,3 @@ npm run build
 ```
 npm start
 ```
-(Prestart is automatically run before start)
