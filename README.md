@@ -9,7 +9,7 @@ npm run dev
 
 ### Package for production
 ```
-npm run prestart
+npm run build
 ```
 
 ### Run production

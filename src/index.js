@@ -1,4 +1,7 @@
 import 'babel-polyfill';
 import 'babel-regenerator-runtime';
 
-// have fun
+// Sample function for testing
+export default function() {
+    return "Test";
+}
